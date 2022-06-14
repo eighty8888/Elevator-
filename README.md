@@ -1,1 +1,1 @@
-This is just code for elevators and how they operate. Was just wondering how they know which floor to go to.
+This is just code for elevators and how they operate. It takes into account weight and the space occupied of the elevator. Was just wondering how they know which floor to go to, and I supposedly chose the simplest algorithm that most elevators follow, I think.
